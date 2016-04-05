@@ -2,6 +2,6 @@
 
 Finding rectangle area using opencv
 
-For demonstration watch [here](https://youtu.be/LRxPHlwPndU)
+For demonstration watch [https://youtu.be/LRxPHlwPndU](https://youtu.be/LRxPHlwPndU)
   
 
